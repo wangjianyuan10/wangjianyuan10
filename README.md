@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Walker.
-- 👀 I’m interested in programing
+- 👀 I’m interested in programing,swimming and jogging.
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at wangjianyuan10@163.com
